@@ -5,11 +5,7 @@ The agent skill for [Havooch](https://github.com/yahyabedirhan/havooch), a macOS
 ## Install
 
 ```sh
-npx skills add yahyabedirhan/havooch-mate --global
+npx skills add yahyabedirhan/havooch-mate --skill havooch-mate --global
 ```
 
-Havooch's Connect view runs the same command. It installs the latest skill. To update it, run the command again.
-
-## Where it is maintained
-
-This repository is published from `.agents/skills/havooch-mate/` in [yahyabedirhan/havooch](https://github.com/yahyabedirhan/havooch) on each release. Change the skill there, not here: each release writes over these files.
+Havooch's Connect view runs the same command for the agent you pick. To update the skill, run the command again.
