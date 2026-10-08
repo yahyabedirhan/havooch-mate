@@ -31,3 +31,9 @@ It works with Claude Code, Codex, Cursor, Pi and OpenCode.
    ```
 
 Havooch's Connect view can also run this for you. To update the skill later, run the same command again.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
+
+If you use havooch-mate, or build on it or its ideas, please cite it. GitHub's **Cite this repository** button gives you the reference, from [`CITATION.cff`](CITATION.cff).
