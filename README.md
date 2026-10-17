@@ -34,6 +34,8 @@ Havooch's Connect view can also run this for you. To update the skill later, run
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE).
+The code is licensed under the [Apache License 2.0](LICENSE). See [LICENSE](LICENSE) and [NOTICE](NOTICE). If you use or adapt it, please credit Yahya Bedirhan Pak with a link to [yahyapak.dev](https://yahyapak.dev).
+
+The Havooch name and the app icon in `assets/` are not covered by this license and are all rights reserved.
 
 If you use havooch-mate, or build on it or its ideas, please cite it. GitHub's **Cite this repository** button gives you the reference, from [`CITATION.cff`](CITATION.cff).
